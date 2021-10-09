@@ -23,6 +23,8 @@ Saiba mais em https://bancopan.corporate.gama.academy/
 
 :open_file_folder: [Condicionais:](https://github.com/ldsleticia/gamaPanAcademy/tree/main/condicionais/src/br/com/panacademycondicionais) operadores condicionais e estruturas de decisão.
 
+:open_file_folder: [Pan Academy Bank:](https://github.com/ldsleticia/panAcademyBank) desenvolvendo funções de um banco utilizando Java e conceitos de OOP.
+
 ## Me contate
 
   <a href = "mailto:lds.leticia.dos.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
