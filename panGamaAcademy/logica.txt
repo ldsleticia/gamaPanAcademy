@@ -1,0 +1,15 @@
+1. Faça um algoritmo que mostre o passo a passo para trocar uma de lâmpada queimada.
+2. Faça um algoritmo que mostre o passo a passo para passear com seu animal de estimação.
+3. Faça um algoritmo que mostre o passo a passo para acessar um computador.
+4. Faça um algoritmo que mostre o passo a passo para lavar um copo
+5. Faça um algoritmo que mostre o passo a passo para postar uma foto em um rede social
+
+1 - Pegar uma escada, subir na escada, tirar a lâmpada queimada, descer da escada, jogar a lâmpada queimada no lixo. Pegar a lâmpada nova, subir na escada, colocar a lâmpada nova
+
+2 - Pegar a coleira, chamar o animal de estimação, colocar a coleira nele, pegar as chaves do portão, abrir o portão, pegar o bicho, sair pelo portão, fechar o portão.
+
+3 - Apertar o botão de ligar do computador, esperar ele iniciar, colocar a senha caso tenha.
+
+4 - Pegar o copo, pegar a esponja, colocar sabão na esponja, lavar o copo, deixar a esponja na pia, enxaguar o copo
+
+5 - Abrir a galeria, escolher a foto, clicar em compartilhar, escolher a rede social, clicar na rede social escolhida, escrever uma legenda caso queira, clicar em postar.
