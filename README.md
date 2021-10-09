@@ -22,3 +22,13 @@ Saiba mais em https://bancopan.corporate.gama.academy/
 :open_file_folder: [Primeiro Projeto Java:](https://github.com/ldsleticia/gamaPanAcademy/tree/main/primeiroprojetojava) introdução a programação em Java.
 
 :open_file_folder: [Condicionais:](https://github.com/ldsleticia/gamaPanAcademy/tree/main/condicionais/src/br/com/panacademycondicionais) operadores condicionais e estruturas de decisão.
+
+## Me contate
+
+  <a href = "mailto:lds.leticia.dos.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+## Bora Codar
+<p align="center">
+	<img alt="Naruto Uzumaki chegando" src="https://github.com/ldsleticia/gamaPanAcademy/blob/main/panGamaAcademy/assets/Naruto_Uzumaki.png" />
+</p>
