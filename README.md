@@ -23,7 +23,7 @@ Saiba mais em https://bancopan.corporate.gama.academy/
 
 :open_file_folder: [Condicionais:](https://github.com/ldsleticia/gamaPanAcademyJavaBasico/tree/main/condicionais/src/br/com/panacademycondicionais) operadores condicionais e estruturas de decisão.
 
-:open_file_folder: [Pan Academy Bank:](https://github.com/ldsleticia/panAcademyBank) desenvolvendo funções de um banco utilizando Java e conceitos de OOP.
+:open_file_folder: [Tabuada:](https://github.com/ldsleticia/gamaPanAcademyJavaBasico/tree/main/tabuada) criação de tabuada com tratamento de exceção.
 
 ## Me contate
 
