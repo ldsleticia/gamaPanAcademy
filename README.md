@@ -13,7 +13,7 @@
 </p>
 
 
-Este repositório é feito para armazenar os projetos da Pan Academy. Parceria entre o Banco Pan e a Gama Academy para a formação de desenvolvedorxs Java e Cloud.
+Este repositório é feito para armazenar os projetos da Pan Academy. Parceria entre o Banco Pan e a Gama Academy para a formação de desenvolvedores Java e Cloud.
 Saiba mais em https://bancopan.corporate.gama.academy/
 
 ## Organização do Repositório
